@@ -11,4 +11,4 @@ Use the package manager [pip](https://pypi.org/project/pip/ )
 
 **kacurranoof**
 
-_ _ Ryleigh-alt _ _
+_Ryleigh-alt_
